@@ -21,7 +21,8 @@
   body {
     background-color: aqua;
     color: var(--primary-dark);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Sans';
+    font-weight: bolder;
     line-height: 1.6;
     /* footer support */
     margin-bottom: 100px;
@@ -38,6 +39,7 @@
     color: inherit;
     font-family: inherit;
     font-size: inherit;
+    font-weight: bolder;
     cursor: pointer;
     outline: none;
   }
@@ -51,6 +53,8 @@
   .title {
     text-align: center;
     font-size: 80px;
+    font-family: 'Sans';
+    font-style: italic;
     
   }
   
