@@ -1,3 +1,3 @@
 # Etch-a-Sketch by ODin Project
 
-## Craeting a web page for sketching
+### Creating a web page for sketching and color picker
